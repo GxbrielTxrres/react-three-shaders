@@ -1,0 +1,30 @@
+{
+	"name": "@gtdevelops/r3f-shaders",
+	"version": "1.0.0",
+	"description": "shaders and shader helpers + more for react three fiber",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/GxbrielTxrres/react-three-shaders.git"
+	},
+	"keywords": [
+		"shaders",
+		"react"
+	],
+	"author": "Gabriel Torres",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/GxbrielTxrres/react-three-shaders/issues"
+	},
+	"homepage": "https://github.com/GxbrielTxrres/react-three-shaders#readme",
+	"dependencies": {
+		"@react-three/drei": "^9.77.3",
+		"@react-three/fiber": "^8.13.3",
+		"@react-three/postprocessing": "^2.14.11",
+		"gsap": "^3.12.1",
+		"postprocessing": "^6.32.1"
+	}
+}
